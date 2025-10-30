@@ -26,8 +26,9 @@ body div, ul, ol {
 }
 
 .listbox {
-    background-color: aquamarine;
+    background-color: red;
     width: 100%;
     height: 250px;
     padding: 24px;
+
 }
